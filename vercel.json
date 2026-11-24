@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "framework": null,
+  "buildCommand": "python3 download-assets.py",
+  "outputDirectory": "."
+}
